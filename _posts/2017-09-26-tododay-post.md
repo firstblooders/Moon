@@ -8,4 +8,8 @@
 这都是什么鬼啊    
 >GT-Power,fluent貌似很有意思！…！  
 
-
+  
+fluent->  
+gambit->  
+exceed
+alt->option
