@@ -5,4 +5,6 @@
 bash metasppoit.sh
 
 bundle config build.nokogiri --use-system-libraries && bundle install  
+  
+  [nmap](https://nmap.org/nsedoc/)
 
