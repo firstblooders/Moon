@@ -9,4 +9,8 @@ sudo apt-get install prime-indicator
 reboot  
 记得要关闭安全启动选项，除非你信任该厂商
 
-另：EFI分区是安装启动器的地方
+另：EFI分区是安装启动器的地方  
+NetEase-MusicBox:
+pip install NetEase-MusicBox  
+apt-get install mpg123  
+musicbox
